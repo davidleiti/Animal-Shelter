@@ -1,0 +1,6 @@
+Max,Labrador,5,http://cdn2-www.dogtime.com/assets/uploads/gallery/labrador-retriever-dog-breed-pictures/labrador-retriever-dog-pictures-6.jpg
+Rex,Husky,5,http://kutyafajtak.hu/kepek/sziberiai-husky-kutya/sziberiai-husky-kutya-01.jpg
+Bones,Beagle,2,http://www.dogbreedinfo.com/images24/BeagleBayleePurebredDogs8Months1.jpg
+Doge,Shiba,3,https://pbs.twimg.com/profile_images/378800000822867536/3f5a00acf72df93528b6bb7cd0a4fd0c.jpeg
+Sundae,American Eskimo,2,https://i.ytimg.com/vi/lnfmId5nsjk/maxresdefault.jpg
+Edgar Allan Pug,Pug,3,http://vignette3.wikia.nocookie.net/pewdiepie/images/1/19/Edgar_1.png/revision/latest?cb=20131014082030
